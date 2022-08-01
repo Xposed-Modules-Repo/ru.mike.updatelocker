@@ -9,6 +9,7 @@ Block updates (and auto-updates) selected apps via popular markets
 - Samsung Galaxy Store
 - Steam
 - F-Droid
+- App Lounge
 
 ## Support/Discussion URL
 [xda](https://forum.xda-developers.com/t/mod-xposed-4-1-updatelocker-stop-update-your-apps.4433253/) or [4pda](https://4pda.to/forum/index.php?s=&showtopic=603033&view=findpost&p=114402375)
