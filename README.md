@@ -1,6 +1,7 @@
 # Update Locker
 
 Block updates (and auto-updates) selected apps via popular markets
+
 Block apps permissions revoke (system-wide)
 
 ## List of supported markets:
